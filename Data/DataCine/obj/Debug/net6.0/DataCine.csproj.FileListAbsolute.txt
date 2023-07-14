@@ -1,0 +1,24 @@
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\bin\Debug\net6.0\DataCine.deps.json
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\bin\Debug\net6.0\DataCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\bin\Debug\net6.0\DataCine.pdb
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.csproj.AssemblyReference.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.AssemblyInfoInputs.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.AssemblyInfo.cs
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\refint\DataCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\DataCine.pdb
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\Data\DataCine\obj\Debug\net6.0\ref\DataCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\bin\Debug\net6.0\DataCine.deps.json
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\bin\Debug\net6.0\DataCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\bin\Debug\net6.0\DataCine.pdb
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.csproj.AssemblyReference.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.AssemblyInfoInputs.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.AssemblyInfo.cs
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.csproj.CoreCompileInputs.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\refint\DataCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\DataCine.pdb
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\Data\DataCine\obj\Debug\net6.0\ref\DataCine.dll

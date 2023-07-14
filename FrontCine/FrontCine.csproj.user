@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Formularios\AgregarFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ButacasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ComprobanteVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EditarPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Funciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\InsertarPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ConsultarPeliculas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PagosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Reportes\ReporteBillHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Reportes\ReporteComprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Reportes\ReporteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

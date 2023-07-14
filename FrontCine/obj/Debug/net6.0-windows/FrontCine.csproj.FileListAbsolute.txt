@@ -1,0 +1,146 @@
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\FrontCine.exe
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\FrontCine.deps.json
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\FrontCine.runtimeconfig.json
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\FrontCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\FrontCine.pdb
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\DataCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\bin\Debug\net6.0-windows\DataCine.pdb
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.AssemblyReference.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\ReportesCine.Formularios.Inicio.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\ReportesCine.Formularios.Login.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Reportes.ReporteForm.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Properties.Resources.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.GenerateResource.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.AssemblyInfoInputs.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.AssemblyInfo.cs
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.CopyComplete
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\refint\FrontCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.pdb
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.genruntimeconfig.cache
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\ref\FrontCine.dll
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.ButacasForm.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.ComprobanteVenta.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.ConsultarPeliculas.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.InsertarPeliculas.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Reportes.ReporteComprobante.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.EditarPeliculas.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.PagosForm.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Reportes.ReporteBillHistory.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Funciones.resources
+C:\Users\Maxi\Desktop\Tecnicatura\2doCuatrimestre\Trabajo Practico Final\TpProgra\ProyectoGrupo9\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.AgregarFuncion.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\FrontCine.exe
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\FrontCine.deps.json
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\FrontCine.runtimeconfig.json
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\FrontCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\FrontCine.pdb
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\DataCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\bin\Debug\net6.0-windows\DataCine.pdb
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.AssemblyReference.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.AgregarFuncion.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.ButacasForm.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.ComprobanteVenta.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.ConsultarPeliculas.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.EditarPeliculas.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Funciones.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\ReportesCine.Formularios.Inicio.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.InsertarPeliculas.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\ReportesCine.Formularios.Login.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.PagosForm.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Reportes.ReporteBillHistory.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Reportes.ReporteComprobante.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Formularios.Reportes.ReporteForm.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.Properties.Resources.resources
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.GenerateResource.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.AssemblyInfoInputs.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.AssemblyInfo.cs
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.CoreCompileInputs.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.csproj.CopyComplete
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\refint\FrontCine.dll
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.pdb
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\FrontCine.genruntimeconfig.cache
+C:\Users\maximo.galindo\Desktop\Sistema-Cine\FrontCine\obj\Debug\net6.0-windows\ref\FrontCine.dll
